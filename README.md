@@ -1,2 +1,2 @@
 # Statistic-functions
-Multiple files for basic statistics written in python
+Multiple files for basic statistical analysis written in python
