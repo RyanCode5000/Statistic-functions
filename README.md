@@ -9,3 +9,6 @@ Multiple files for basic statistical analysis written in python
 
 ### Basic_stat_functions.py
   Function to provide basic statistical data.  Takes a list of numbers as input and returns the mean, median, mode, variance and standard deviation all rounded to 1 decimal.
+
+### vector_multiplication.py
+  Simple function to calculate the dot product of two vectors.  
