@@ -12,3 +12,6 @@ Multiple files for basic statistical analysis written in python
 
 ### vector_multiplication.py
   Simple function to calculate the dot product of two vectors.  
+
+### matrix_multiplier.py
+  Function to take two matrices, verify if matrix multiplication is possible and then perform multiplication and return the product or an error message if dimensions are not compatible.  
